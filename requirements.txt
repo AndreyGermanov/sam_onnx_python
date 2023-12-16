@@ -1,0 +1,5 @@
+onnxruntime
+numpy
+Pillow
+flask
+waitress
